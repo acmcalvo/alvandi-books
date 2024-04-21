@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andiconner/alvandi-books.git"
+    "url": "git+https://github.com/acmcalvo/alvandi-books.git"
   },
   "author": "Alvaro Calvo and Andi Conner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andiconner/alvandi-books/issues"
+    "url": "https://github.com/acmcalvo/alvandi-books/issues"
   },
-  "homepage": "https://github.com/andiconner/alvandi-books#readme",
+  "homepage": "https://github.com/acmcalvo/alvandi-books#readme",
   "dependencies": {
     "concurrently": "^7.0.0",
     "express": "^4.17.3"
