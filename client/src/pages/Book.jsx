@@ -96,7 +96,7 @@ const Button = styled.button`
 
 const Book = () => {
   const {id} = useParams ()
-  const book = allBooks.find(book => book.id == id);
+  const book = allBooks.find(book => book.id ===id);
   const [quantity, setQuantity] = useState(1);
   const dispatch = useDispatch();
 
